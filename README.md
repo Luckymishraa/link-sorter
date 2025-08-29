@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+🔗 Link Sorter: A URL Organization Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A clean and efficient web application designed to sort and organize lists of URLs. This tool allows users to instantly tidy up their links by sorting them alphabetically or by domain name, enhancing productivity and organization. This project was built as a part of a technical evaluation process.
 
-## Available Scripts
+✨ Key Features
 
-In the project directory, you can run:
+Bulk URL Processing: Paste multiple URLs at once, separated by newlines, for quick processing.
 
-### `npm start`
+Alphabetical Sorting: Organizes the list of URLs in alphabetical order (A-Z).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Domain-Based Sorting: Groups links by their domain name (e.g., all google.com links together).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Favicon Integration: Automatically fetches and displays the favicon for each valid URL, providing a clear visual reference.
 
-### `npm test`
+Clean & Responsive UI: A modern and intuitive interface built for a seamless user experience on any device.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🚀 Live Demo
 
-### `npm run build`
+The project is deployed and accessible to the public.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+View the live demo here ⬅️ (Vercel link)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🛠️ Technology Stack
+This project was built using modern frontend technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Core Library: React.js, HTML
 
-### `npm run eject`
+Styling: Standard CSS3
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+API: Google S2 Favicon API for fetching site icons.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Version Control: Git & GitHub
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Deployment: Vercel
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+⚙️ Getting Started: How to Run Locally
+To get a local copy up and running, follow these simple steps.
 
-## Learn More
+Prerequisites
+You will need to have Node.js and npm installed on your machine.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Installation & Setup
+Clone the repository:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Bash
 
-### Code Splitting
+git clone https://github.com/your-username/your-repo-name.git
+Navigate to the project directory:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Bash
 
-### Analyzing the Bundle Size
+cd your-repo-name
+Install NPM packages:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Bash
 
-### Making a Progressive Web App
+npm install
+Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Bash
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+npm start
+The application will open in your browser at http://localhost:3000.
