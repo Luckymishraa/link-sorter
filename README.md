@@ -4,8 +4,6 @@
 
 An efficient web application to instantly sort and organize lists of URLs alphabetically or by domain.
 
-(Note: You can replace this GIF with a screenshot or video of your own project.)
-
 About The Project
 This tool was developed as part of a technical evaluation to demonstrate modern frontend development skills. It provides a clean, intuitive interface for users to manage and tidy up their link collections, enhancing productivity and organization.
 
@@ -23,10 +21,10 @@ Favicon Integration: Automatically fetches and displays each website's icon for 
 Responsive Design: A seamless user experience across desktops, tablets, and mobile devices.
 
 🚀 Live Demo
-The application is deployed on Vercel and is publicly accessible.
+The application is deployed on Vercel and is publicly accessible. 
 
 👉 View Live Demo Here
-(Important: Remember to replace the link above with your own Vercel deployment link.)
+link-sorter-pink.vercel.app
 
 🛠️ Built With
 This project utilizes a modern frontend technology stack:
