@@ -4,7 +4,7 @@
 
 An efficient web application to instantly sort and organize lists of URLs alphabetically or by domain.
 
-(Note: Aap is GIF ko apne project ke screenshot ya video se badal sakte hain.)
+(Note: You can replace this GIF with a screenshot or video of your own project.)
 
 About The Project
 This tool was developed as part of a technical evaluation to demonstrate modern frontend development skills. It provides a clean, intuitive interface for users to manage and tidy up their link collections, enhancing productivity and organization.
@@ -26,7 +26,7 @@ Responsive Design: A seamless user experience across desktops, tablets, and mobi
 The application is deployed on Vercel and is publicly accessible.
 
 👉 View Live Demo Here
-(Important: Upar diye gaye link ko apne Vercel deployment link se zaroor badlein.)
+(Important: Remember to replace the link above with your own Vercel deployment link.)
 
 🛠️ Built With
 This project utilizes a modern frontend technology stack:
@@ -74,9 +74,3 @@ Bash
 
 npm start
 The application will be available at http://localhost:3000.
-
-[]: #
-[react-url]: https://www.google.com/search?q=%5Bhttps://reactjs.org/%5Dhttps://reactjs.org/
-[]: #
-[vercel-url]: https://www.google.com/search?q=%5Bhttps://vercel.com/%5Dhttps://vercel.com/
-[]: #
