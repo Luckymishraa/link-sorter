@@ -72,3 +72,6 @@ Bash
 
 npm start
 The application will be available at http://localhost:3000.
+<img width="1429" height="769" alt="Screenshot 2025-08-29 at 3 32 46 PM" src="https://github.com/user-attachments/assets/83d4333a-effd-4b1b-b1f4-b22b8f473827" />
+
+<img width="1429" height="757" alt="Screenshot 2025-08-29 at 3 33 06 PM" src="https://github.com/user-attachments/assets/1bf97df9-4606-46a1-9689-3c9810e5cbf9" />
