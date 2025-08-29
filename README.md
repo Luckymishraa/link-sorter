@@ -1,45 +1,58 @@
-🔗 Link Sorter: A URL Organization Tool
+🔗 Link Sorter
+[][React-url]
+[][Vercel-url]
 
-A clean and efficient web application designed to sort and organize lists of URLs. This tool allows users to instantly tidy up their links by sorting them alphabetically or by domain name, enhancing productivity and organization. This project was built as a part of a technical evaluation process.
+An efficient web application to instantly sort and organize lists of URLs alphabetically or by domain.
+
+(Note: Aap is GIF ko apne project ke screenshot ya video se badal sakte hain.)
+
+About The Project
+This tool was developed as part of a technical evaluation to demonstrate modern frontend development skills. It provides a clean, intuitive interface for users to manage and tidy up their link collections, enhancing productivity and organization.
 
 ✨ Key Features
+Bulk URL Processing: Paste multiple URLs at once for quick processing.
 
-Bulk URL Processing: Paste multiple URLs at once, separated by newlines, for quick processing.
+Dual Sorting Modes:
 
-Alphabetical Sorting: Organizes the list of URLs in alphabetical order (A-Z).
+Alphabetical Sort: Organizes URLs in A-Z order.
 
-Domain-Based Sorting: Groups links by their domain name (e.g., all google.com links together).
+Domain Sort: Groups all links from the same domain together.
 
-Favicon Integration: Automatically fetches and displays the favicon for each valid URL, providing a clear visual reference.
+Favicon Integration: Automatically fetches and displays each website's icon for easy visual identification.
 
-Clean & Responsive UI: A modern and intuitive interface built for a seamless user experience on any device.
+Responsive Design: A seamless user experience across desktops, tablets, and mobile devices.
 
 🚀 Live Demo
+The application is deployed on Vercel and is publicly accessible.
 
-The project is deployed and accessible to the public.
+👉 View Live Demo Here
+(Important: Upar diye gaye link ko apne Vercel deployment link se zaroor badlein.)
 
-View the live demo here ⬅️ (Vercel link)
+🛠️ Built With
+This project utilizes a modern frontend technology stack:
 
-🛠️ Technology Stack
-This project was built using modern frontend technologies:
+Core Library: React.js
 
-Core Library: React.js, HTML
+Styling: CSS3
 
-Styling: Standard CSS3
-
-API: Google S2 Favicon API for fetching site icons.
+APIs: Google S2 Favicon API
 
 Version Control: Git & GitHub
 
 Deployment: Vercel
 
-⚙️ Getting Started: How to Run Locally
+⚙️ Getting Started & Local Setup
 To get a local copy up and running, follow these simple steps.
 
 Prerequisites
-You will need to have Node.js and npm installed on your machine.
+Make sure you have Node.js and npm installed on your machine.
 
-Installation & Setup
+npm
+
+Bash
+
+npm install npm@latest -g
+Installation
 Clone the repository:
 
 Bash
@@ -60,4 +73,10 @@ Start the development server:
 Bash
 
 npm start
-The application will open in your browser at http://localhost:3000.
+The application will be available at http://localhost:3000.
+
+[]: #
+[react-url]: https://www.google.com/search?q=%5Bhttps://reactjs.org/%5Dhttps://reactjs.org/
+[]: #
+[vercel-url]: https://www.google.com/search?q=%5Bhttps://vercel.com/%5Dhttps://vercel.com/
+[]: #
